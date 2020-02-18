@@ -1,0 +1,112 @@
+Capacity 256
+Block size 64
+Associativity 1
+Num Sets 4
+ADD: 	0	 0x0
+****** SET 0****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 1****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+****** SET 2****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+****** SET 3****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+ADD: 	63	 0x3f
+****** SET 0****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 1****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+****** SET 2****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+****** SET 3****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+ADD: 	64	 0x40
+****** SET 0****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 1****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 2****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+****** SET 3****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+ADD: 	260	 0x104
+****** SET 0****** 
+Index 0: tag 1 valid 1 lru 0
+***************** 
+****** SET 1****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 2****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+****** SET 3****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+ADD: 	63	 0x3f
+****** SET 0****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 1****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 2****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+****** SET 3****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+ADD: 	70	 0x46
+****** SET 0****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 1****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 2****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+****** SET 3****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+ADD: 	140	 0x8c
+****** SET 0****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 1****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 2****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 3****** 
+Index 0: tag 0 valid 0 lru -1
+***************** 
+ADD: 	193	 0xc1
+****** SET 0****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 1****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 2****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+****** SET 3****** 
+Index 0: tag 0 valid 1 lru 0
+***************** 
+ACCESSES 8
+HITS 2
+MISSES 6
+HIT RATE 0.25
